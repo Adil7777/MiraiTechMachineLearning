@@ -1,0 +1,18 @@
+{
+  "Ankle": [],
+  "Hip": [],
+  "Info": {
+    "Age": "33",
+    "FootSize": "40",
+    "Height": "165",
+    "ID": "InMotion_Mir",
+    "Sex": "Male",
+    "Weight": "63"
+  },
+  "Knee": [
+    "09.04.2025: ITB band syndrome"
+  ],
+  "Neurology": [],
+  "Rheumatology": [],
+  "Spine": []
+}

@@ -1,0 +1,16 @@
+{
+  "Ankle": [],
+  "Hip": [],
+  "Info": {
+    "Age": "",
+    "FootSize": "",
+    "Height": "",
+    "ID": "Roman_Olimp_Chemp",
+    "Sex": "",
+    "Weight": ""
+  },
+  "Knee": [],
+  "Neurology": [],
+  "Rheumatology": [],
+  "Spine": []
+}

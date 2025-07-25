@@ -1,0 +1,16 @@
+{
+  "Ankle": [],
+  "Hip": [],
+  "Info": {
+    "Age": "31",
+    "FootSize": "42",
+    "Height": "176",
+    "ID": "InMotio_Kyz",
+    "Sex": "Male",
+    "Weight": "76"
+  },
+  "Knee": [],
+  "Neurology": [],
+  "Rheumatology": [],
+  "Spine": []
+}

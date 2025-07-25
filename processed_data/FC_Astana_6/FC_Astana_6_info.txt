@@ -1,0 +1,16 @@
+{
+  "Ankle": [],
+  "Hip": [],
+  "Info": {
+    "Age": "18",
+    "FootSize": "42",
+    "Height": "176",
+    "ID": "FC_Astana_6",
+    "Sex": "Male",
+    "Weight": "62"
+  },
+  "Knee": [],
+  "Neurology": [],
+  "Rheumatology": [],
+  "Spine": []
+}

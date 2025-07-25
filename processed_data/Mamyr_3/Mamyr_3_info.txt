@@ -1,0 +1,18 @@
+{
+  "Ankle": [
+    "14.06.2025: \u0418\u043d\u0432\u0435\u0440\u0441\u0438\u043e\u043d\u043d\u0430\u044f \u0442\u0440\u0430\u0432\u043c\u0430 \u0433\u043e\u043b\u0435\u043d\u043e\u0441\u0442\u043e\u043f\u0430"
+  ],
+  "Hip": [],
+  "Info": {
+    "Age": "50",
+    "FootSize": "38",
+    "Height": "176",
+    "ID": "Mamyr_3",
+    "Sex": "Female",
+    "Weight": "100"
+  },
+  "Knee": [],
+  "Neurology": [],
+  "Rheumatology": [],
+  "Spine": []
+}

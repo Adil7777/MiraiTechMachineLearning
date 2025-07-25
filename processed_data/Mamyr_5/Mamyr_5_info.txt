@@ -1,0 +1,18 @@
+{
+  "Ankle": [],
+  "Hip": [],
+  "Info": {
+    "Age": "38",
+    "FootSize": "39",
+    "Height": "170",
+    "ID": "Mamyr_5",
+    "Sex": "female",
+    "Weight": "70"
+  },
+  "Knee": [
+    "04.09.2005: \u041f\u0430\u0434\u0435\u043d\u0438\u0435 \u043d\u0430 \u043a\u043e\u043b\u0435\u043d\u043e "
+  ],
+  "Neurology": [],
+  "Rheumatology": [],
+  "Spine": []
+}
